@@ -807,6 +807,32 @@ if (!appshell.app) {
     appshell.app.dragWindow = function () {
         DragWindow();
     };
+
+     /**
+      * Get information for the selected file or directory.
+      *
+      * @param {string} path The path of the file or directory to read.
+      * @param {function(err, stats)} callback Asynchronous callback function. The callback gets two arguments
+      *        (err, stats) where stats is an object with isFile() and isDirectory() functions.
+      *        Possible error values:
+      *          NO_ERROR
+      *          ERR_UNKNOWN
+      *          ERR_INVALID_PARAMS
+      *          ERR_NOT_FOUND
+      *
+      * @return None. This is an asynchronous call that sends all return information to the callback.
+      */
+ 
+    /**
+      * Returns the UUID of the Mac System
+      *
+      * @return {string} Full UUID of Mac system
+      */
+     native function GetMacUUID();
+     appshell.app.GetMacUUID = function () {
+     return GetMacUUID();
+     };
+
  
     // Alias the appshell object to brackets. This is temporary and should be removed.
     brackets = appshell;

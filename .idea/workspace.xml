@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eceaa2b8-9e3f-4652-bb13-478a5382c58d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Background/Installer BG Image-02.png" afterPath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Background/Installer BG Image-02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.0679B008-641D-4857-A4B8-156BF67D8320.icns" afterPath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.0679B008-641D-4857-A4B8-156BF67D8320.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.3E1B7344-C175-4BE0-87DB-880A4A30E80F.icns" afterPath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.3E1B7344-C175-4BE0-87DB-880A4A30E80F.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.41ACEC13-5995-48E6-A3F1-6C766090B2BF.icns" afterPath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.41ACEC13-5995-48E6-A3F1-6C766090B2BF.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.8D9807E3-99A9-44C5-B7D7-6E950AB1C9AE.icns" afterPath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.8D9807E3-99A9-44C5-B7D7-6E950AB1C9AE.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.98CEBD52-9BEA-4BCA-AB41-A7A7B966A961.icns" afterPath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.98CEBD52-9BEA-4BCA-AB41-A7A7B966A961.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.E769E339-FD2E-41FE-B10F-98654151FD1C.icns" afterPath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Icons/LayoutItem.E769E339-FD2E-41FE-B10F-98654151FD1C.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/appicon.ico" afterPath="$PROJECT_DIR$/installer/win/appicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/appshell.icns" afterPath="$PROJECT_DIR$/appshell/mac/appshell.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/appshell.ico" afterPath="$PROJECT_DIR$/appshell/res/appshell.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/appshell128.png" afterPath="$PROJECT_DIR$/appshell/res/appshell128.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/appshell256.png" afterPath="$PROJECT_DIR$/appshell/res/appshell256.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/appshell32.png" afterPath="$PROJECT_DIR$/appshell/res/appshell32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/appshell48.png" afterPath="$PROJECT_DIR$/appshell/res/appshell48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/close-hover.png" afterPath="$PROJECT_DIR$/appshell/res/close-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/close-pressed.png" afterPath="$PROJECT_DIR$/appshell/res/close-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/close.png" afterPath="$PROJECT_DIR$/appshell/res/close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/max-hover.png" afterPath="$PROJECT_DIR$/appshell/res/max-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/max-pressed.png" afterPath="$PROJECT_DIR$/appshell/res/max-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/max.png" afterPath="$PROJECT_DIR$/appshell/res/max.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/min-hover.png" afterPath="$PROJECT_DIR$/appshell/res/min-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/min-pressed.png" afterPath="$PROJECT_DIR$/appshell/res/min-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/min.png" afterPath="$PROJECT_DIR$/appshell/res/min.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/restore-hover.png" afterPath="$PROJECT_DIR$/appshell/res/restore-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/restore-pressed.png" afterPath="$PROJECT_DIR$/appshell/res/restore-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/res/restore.png" afterPath="$PROJECT_DIR$/appshell/res/restore.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/win_install_banner.jpg" afterPath="$PROJECT_DIR$/installer/win/win_install_banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-active.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-active.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-active@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-active@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-dirty-active.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-dirty-active.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-dirty-active@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-dirty-active@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-dirty-hover.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-dirty-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-dirty-hover@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-dirty-hover@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-dirty-inactive.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-dirty-inactive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-dirty-inactive@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-dirty-inactive@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-dirty-pressed.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-dirty-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-dirty-pressed@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-dirty-pressed@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-hover.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-hover@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-hover@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-inactive.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-inactive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-inactive@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-inactive@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-pressed.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-close-pressed@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-close-pressed@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-fullscreen-active.png" afterPath="$PROJECT_DIR$/appshell/mac/window-fullscreen-active.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-fullscreen-active@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-fullscreen-active@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-fullscreen-hover.png" afterPath="$PROJECT_DIR$/appshell/mac/window-fullscreen-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-fullscreen-hover@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-fullscreen-hover@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-fullscreen-inactive.png" afterPath="$PROJECT_DIR$/appshell/mac/window-fullscreen-inactive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-fullscreen-inactive@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-fullscreen-inactive@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-fullscreen-pressed.png" afterPath="$PROJECT_DIR$/appshell/mac/window-fullscreen-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-fullscreen-pressed@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-fullscreen-pressed@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-minimize-active.png" afterPath="$PROJECT_DIR$/appshell/mac/window-minimize-active.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-minimize-active@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-minimize-active@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-minimize-hover.png" afterPath="$PROJECT_DIR$/appshell/mac/window-minimize-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-minimize-hover@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-minimize-hover@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-minimize-inactive.png" afterPath="$PROJECT_DIR$/appshell/mac/window-minimize-inactive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-minimize-inactive@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-minimize-inactive@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-minimize-pressed.png" afterPath="$PROJECT_DIR$/appshell/mac/window-minimize-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-minimize-pressed@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-minimize-pressed@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-zoom-active.png" afterPath="$PROJECT_DIR$/appshell/mac/window-zoom-active.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-zoom-active@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-zoom-active@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-zoom-hover.png" afterPath="$PROJECT_DIR$/appshell/mac/window-zoom-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-zoom-hover@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-zoom-hover@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-zoom-inactive.png" afterPath="$PROJECT_DIR$/appshell/mac/window-zoom-inactive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-zoom-inactive@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-zoom-inactive@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-zoom-pressed.png" afterPath="$PROJECT_DIR$/appshell/mac/window-zoom-pressed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/window-zoom-pressed@2x.png" afterPath="$PROJECT_DIR$/appshell/mac/window-zoom-pressed@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/.gitignore" afterPath="$PROJECT_DIR$/gyp/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.jshintrc" afterPath="$PROJECT_DIR$/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/AUTHORS" afterPath="$PROJECT_DIR$/gyp/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/BaseDomain.js" afterPath="$PROJECT_DIR$/appshell/node-core/BaseDomain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/Brackets.wxs" afterPath="$PROJECT_DIR$/installer/win/Brackets.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/Brackets_en-us.wxl" afterPath="$PROJECT_DIR$/installer/win/Brackets_en-us.wxl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/Brackets_fr-fr.wxl" afterPath="$PROJECT_DIR$/installer/win/Brackets_fr-fr.wxl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/BrowseDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/BrowseDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/BufferPool.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/BufferPool.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/BufferUtil.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/BufferUtil.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/ConnectionManager.js" afterPath="$PROJECT_DIR$/appshell/node-core/ConnectionManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/CustomTitlebarView.h" afterPath="$PROJECT_DIR$/appshell/CustomTitlebarView.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/CustomTitlebarView.m" afterPath="$PROJECT_DIR$/appshell/CustomTitlebarView.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/DomainManager.js" afterPath="$PROJECT_DIR$/appshell/node-core/DomainManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/ErrorCodes.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/ErrorCodes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/ExitDialog.wxs" afterPath="$PROJECT_DIR$/installer/win/ExitDialog.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/FullScreen.xib" afterPath="$PROJECT_DIR$/appshell/mac/FullScreen.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/FullScreenButton.h" afterPath="$PROJECT_DIR$/appshell/FullScreenButton.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/FullScreenButton.mm" afterPath="$PROJECT_DIR$/appshell/FullScreenButton.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/FullScreenView.h" afterPath="$PROJECT_DIR$/appshell/FullScreenView.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/FullScreenView.mm" afterPath="$PROJECT_DIR$/appshell/FullScreenView.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/FullScreenViewController.h" afterPath="$PROJECT_DIR$/appshell/FullScreenViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/FullScreenViewController.mm" afterPath="$PROJECT_DIR$/appshell/FullScreenViewController.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/GoogleChrome.h" afterPath="$PROJECT_DIR$/appshell/GoogleChrome.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/Info.plist" afterPath="$PROJECT_DIR$/appshell/mac/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Info.plist" afterPath="$PROJECT_DIR$/installer/mac/dropDmgConfig/layouts/bracketsLayout/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/English.lproj/InfoPlist.strings" afterPath="$PROJECT_DIR$/appshell/mac/English.lproj/InfoPlist.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/French.lproj/InfoPlist.strings" afterPath="$PROJECT_DIR$/appshell/mac/French.lproj/InfoPlist.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/Japanese.lproj/InfoPlist.strings" afterPath="$PROJECT_DIR$/appshell/mac/Japanese.lproj/InfoPlist.strings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/InstallDirDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/InstallDirDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/LICENSE" afterPath="$PROJECT_DIR$/gyp/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/Launcher.js" afterPath="$PROJECT_DIR$/appshell/node-core/Launcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/LicenseAgreementDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/LicenseAgreementDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/Logger.js" afterPath="$PROJECT_DIR$/appshell/node-core/Logger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/MANIFEST" afterPath="$PROJECT_DIR$/gyp/MANIFEST" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSNew.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSNew.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSProject.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSProject.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSSettings.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSSettings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSToolFile.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSToolFile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSUserFile.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSUserFile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSVersion.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/MSVSVersion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/English.lproj/MainMenu.xib" afterPath="$PROJECT_DIR$/appshell/mac/English.lproj/MainMenu.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/French.lproj/MainMenu.xib" afterPath="$PROJECT_DIR$/appshell/mac/French.lproj/MainMenu.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/Japanese.lproj/MainMenu.xib" afterPath="$PROJECT_DIR$/appshell/mac/Japanese.lproj/MainMenu.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/MaintenanceWelcomeDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/MaintenanceWelcomeDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/MaintenanceWelcomeDlg_src.wxs" afterPath="$PROJECT_DIR$/installer/win/MaintenanceWelcomeDlg_src.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/OWNERS" afterPath="$PROJECT_DIR$/gyp/OWNERS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/PRESUBMIT.py" afterPath="$PROJECT_DIR$/gyp/PRESUBMIT.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/PrepareDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/PrepareDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/ProgressDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/ProgressDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/mac/README.MD" afterPath="$PROJECT_DIR$/installer/mac/README.MD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/README.MD" afterPath="$PROJECT_DIR$/installer/win/README.MD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/README.md" afterPath="$PROJECT_DIR$/appshell/node-core/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/README.md" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/linux/archive/README.md" afterPath="$PROJECT_DIR$/installer/linux/archive/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Receiver.hixie.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Receiver.hixie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Receiver.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Receiver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/ResumeDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/ResumeDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/SCons.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/SCons.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Sender.hixie.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Sender.hixie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Sender.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Sender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/Server.js" afterPath="$PROJECT_DIR$/appshell/node-core/Server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/TrafficLightButton.h" afterPath="$PROJECT_DIR$/appshell/TrafficLightButton.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/TrafficLightButton.mm" afterPath="$PROJECT_DIR$/appshell/TrafficLightButton.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/TrafficLights.xib" afterPath="$PROJECT_DIR$/appshell/mac/TrafficLights.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/TrafficLightsView.h" afterPath="$PROJECT_DIR$/appshell/TrafficLightsView.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/TrafficLightsView.mm" afterPath="$PROJECT_DIR$/appshell/TrafficLightsView.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/TrafficLightsViewController.h" afterPath="$PROJECT_DIR$/appshell/TrafficLightsViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/TrafficLightsViewController.mm" afterPath="$PROJECT_DIR$/appshell/TrafficLightsViewController.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/UserExit.wxs" afterPath="$PROJECT_DIR$/installer/win/UserExit.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Validation.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/Validation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/VerifyReadyDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/VerifyReadyDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/WebSocket.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/WebSocket.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/WebSocketServer.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/WebSocketServer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/WelcomeDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/WelcomeDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/WelcomeEulaDlg.wxs" afterPath="$PROJECT_DIR$/installer/win/WelcomeEulaDlg.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/WixUI_InstallDir.wxs" afterPath="$PROJECT_DIR$/installer/win/WixUI_InstallDir.wxs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/WixUI_en-us.wxl" afterPath="$PROJECT_DIR$/installer/win/WixUI_en-us.wxl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/__init__.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/android.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/android.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell.exe.manifest" afterPath="$PROJECT_DIR$/appshell.exe.manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell_config.gypi" afterPath="$PROJECT_DIR$/appshell_config.gypi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_extensions.cpp" afterPath="$PROJECT_DIR$/appshell/appshell_extensions.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_extensions.h" afterPath="$PROJECT_DIR$/appshell/appshell_extensions.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_extensions.js" afterPath="$PROJECT_DIR$/appshell/appshell_extensions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_extensions_gtk.cpp" afterPath="$PROJECT_DIR$/appshell/appshell_extensions_gtk.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_extensions_mac.mm" afterPath="$PROJECT_DIR$/appshell/appshell_extensions_mac.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_extensions_platform.h" afterPath="$PROJECT_DIR$/appshell/appshell_extensions_platform.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_extensions_win.cpp" afterPath="$PROJECT_DIR$/appshell/appshell_extensions_win.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_node_process.cpp" afterPath="$PROJECT_DIR$/appshell/appshell_node_process.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_node_process.h" afterPath="$PROJECT_DIR$/appshell/appshell_node_process.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_node_process_internal.h" afterPath="$PROJECT_DIR$/appshell/appshell_node_process_internal.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_node_process_linux.cpp" afterPath="$PROJECT_DIR$/appshell/appshell_node_process_linux.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_node_process_mac.mm" afterPath="$PROJECT_DIR$/appshell/appshell_node_process_mac.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/appshell_node_process_win.cpp" afterPath="$PROJECT_DIR$/appshell/appshell_node_process_win.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/win/brackets-win-install-build.xml" afterPath="$PROJECT_DIR$/installer/win/brackets-win-install-build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/linux/archive/brackets.desktop" afterPath="$PROJECT_DIR$/installer/linux/archive/brackets.desktop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/linux/debian/brackets.desktop" afterPath="$PROJECT_DIR$/installer/linux/debian/brackets.desktop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/linux/debian/package-root/usr/share/menu/brackets.menu" afterPath="$PROJECT_DIR$/installer/linux/debian/package-root/usr/share/menu/brackets.menu" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/linux/debian/package-root/usr/share/icons/hicolor/scalable/apps/brackets.svg" afterPath="$PROJECT_DIR$/installer/linux/debian/package-root/usr/share/icons/hicolor/scalable/apps/brackets.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/browser.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tasks/build.js" afterPath="$PROJECT_DIR$/tasks/build.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/build_projects.bat" afterPath="$PROJECT_DIR$/scripts/build_projects.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_buffered_dc.h" afterPath="$PROJECT_DIR$/appshell/cef_buffered_dc.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_dark_aero_window.cpp" afterPath="$PROJECT_DIR$/appshell/cef_dark_aero_window.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_dark_aero_window.h" afterPath="$PROJECT_DIR$/appshell/cef_dark_aero_window.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_dark_window.cpp" afterPath="$PROJECT_DIR$/appshell/cef_dark_window.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_dark_window.h" afterPath="$PROJECT_DIR$/appshell/cef_dark_window.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_host_window.cpp" afterPath="$PROJECT_DIR$/appshell/cef_host_window.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_host_window.h" afterPath="$PROJECT_DIR$/appshell/cef_host_window.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_main_window.cpp" afterPath="$PROJECT_DIR$/appshell/cef_main_window.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_main_window.h" afterPath="$PROJECT_DIR$/appshell/cef_main_window.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_popup_window.cpp" afterPath="$PROJECT_DIR$/appshell/cef_popup_window.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_popup_window.h" afterPath="$PROJECT_DIR$/appshell/cef_popup_window.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_registry.cpp" afterPath="$PROJECT_DIR$/appshell/cef_registry.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_registry.h" afterPath="$PROJECT_DIR$/appshell/cef_registry.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_window.cpp" afterPath="$PROJECT_DIR$/appshell/cef_window.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cef_window.h" afterPath="$PROJECT_DIR$/appshell/cef_window.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cefclient.cpp" afterPath="$PROJECT_DIR$/appshell/cefclient.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cefclient.h" afterPath="$PROJECT_DIR$/appshell/cefclient.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cefclient.rc" afterPath="$PROJECT_DIR$/appshell/cefclient.rc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cefclient_gtk.cpp" afterPath="$PROJECT_DIR$/appshell/cefclient_gtk.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cefclient_mac.mm" afterPath="$PROJECT_DIR$/appshell/cefclient_mac.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/cefclient_win.cpp" afterPath="$PROJECT_DIR$/appshell/cefclient_win.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_app.cpp" afterPath="$PROJECT_DIR$/appshell/client_app.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_app.h" afterPath="$PROJECT_DIR$/appshell/client_app.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_app_delegates.cpp" afterPath="$PROJECT_DIR$/appshell/client_app_delegates.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_app_gtk.cpp" afterPath="$PROJECT_DIR$/appshell/client_app_gtk.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_app_mac.mm" afterPath="$PROJECT_DIR$/appshell/client_app_mac.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_app_win.cpp" afterPath="$PROJECT_DIR$/appshell/client_app_win.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_colors_mac.h" afterPath="$PROJECT_DIR$/appshell/client_colors_mac.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_handler.cpp" afterPath="$PROJECT_DIR$/appshell/client_handler.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_handler.h" afterPath="$PROJECT_DIR$/appshell/client_handler.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_handler_gtk.cpp" afterPath="$PROJECT_DIR$/appshell/client_handler_gtk.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_handler_mac.mm" afterPath="$PROJECT_DIR$/appshell/client_handler_mac.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_handler_win.cpp" afterPath="$PROJECT_DIR$/appshell/client_handler_win.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_switches.cpp" afterPath="$PROJECT_DIR$/appshell/client_switches.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/client_switches.h" afterPath="$PROJECT_DIR$/appshell/client_switches.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/codereview.settings" afterPath="$PROJECT_DIR$/gyp/codereview.settings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/command_callbacks.h" afterPath="$PROJECT_DIR$/appshell/command_callbacks.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common.gypi" afterPath="$PROJECT_DIR$/common.gypi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tasks/common.js" afterPath="$PROJECT_DIR$/tasks/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/common.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/common.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compatibility.manifest" afterPath="$PROJECT_DIR$/compatibility.manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/config.h" afterPath="$PROJECT_DIR$/appshell/config.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/linux/debian/control" afterPath="$PROJECT_DIR$/installer/linux/debian/control" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installer/linux/debian/package-root/usr/share/doc/brackets/copyright" afterPath="$PROJECT_DIR$/installer/linux/debian/package-root/usr/share/doc/brackets/copyright" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/dump_dependency_json.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/dump_dependency_json.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/easy_xml.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/easy_xml.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/eclipse.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/eclipse.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/fix-msvc.sh" afterPath="$PROJECT_DIR$/scripts/fix-msvc.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/fix-xcode.sh" afterPath="$PROJECT_DIR$/scripts/fix-xcode.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/gyp_dummy.c" afterPath="$PROJECT_DIR$/gyp/gyp_dummy.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/gypd.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/gypd.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/gypsh.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/gypsh.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/mac/helper-Info.plist" afterPath="$PROJECT_DIR$/appshell/mac/helper-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/index.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/input.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/input.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/make.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/make.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/msvs.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/msvs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/msvs_emulation.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/msvs_emulation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/native_menu_model.cpp" afterPath="$PROJECT_DIR$/appshell/native_menu_model.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/native_menu_model.h" afterPath="$PROJECT_DIR$/appshell/native_menu_model.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/ninja.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/ninja.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/ninja_syntax.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/ninja_syntax.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/ninja_test.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/ninja_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/options.js" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/lib/options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/package.json" afterPath="$PROJECT_DIR$/appshell/node-core/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/package.json" afterPath="$PROJECT_DIR$/appshell/node-core/thirdparty/ws/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/process_helper_mac.cpp" afterPath="$PROJECT_DIR$/appshell/process_helper_mac.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylintrc" afterPath="$PROJECT_DIR$/gyp/pylintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/resource.h" afterPath="$PROJECT_DIR$/appshell/resource.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/resource_util.h" afterPath="$PROJECT_DIR$/appshell/resource_util.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/resource_util_linux.cpp" afterPath="$PROJECT_DIR$/appshell/resource_util_linux.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/resource_util_mac.mm" afterPath="$PROJECT_DIR$/appshell/resource_util_mac.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/resource_util_win.cpp" afterPath="$PROJECT_DIR$/appshell/resource_util_win.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/scons.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/scons.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tasks/set-release.js" afterPath="$PROJECT_DIR$/tasks/set-release.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tasks/setup.js" afterPath="$PROJECT_DIR$/tasks/setup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/string_util.cpp" afterPath="$PROJECT_DIR$/appshell/string_util.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/string_util.h" afterPath="$PROJECT_DIR$/appshell/string_util.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/util.h" afterPath="$PROJECT_DIR$/appshell/util.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appshell/version.rc" afterPath="$PROJECT_DIR$/appshell/version.rc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/generator/xcode.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/generator/xcode.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/xcode_emulation.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/xcode_emulation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/xcodeproj_file.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/xcodeproj_file.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gyp/pylib/gyp/xml_fix.py" afterPath="$PROJECT_DIR$/gyp/pylib/gyp/xml_fix.py" />
+    </list>
+    <ignored path="brackets-shell.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="brackets-shell" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="appshell_config.gypi" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appshell_config.gypi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.033693" vertical-offset="2993" max-vertical-offset="3735">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="brackets-shell" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="brackets-shell" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="brackets-shell" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="/mypi" />
+    <property name="options.lastSelected" value="SQL Dialects" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="brackets-shell" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="brackets-shell" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="brackets-shell" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="brackets-shell" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="brackets-shell" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="brackets-shell" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="brackets-shell" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eceaa2b8-9e3f-4652-bb13-478a5382c58d" name="Default" comment="" />
+      <created>1419461734420</created>
+      <updated>1419461734420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.64158684" vertical-offset="469" max-vertical-offset="1200">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appshell.exe.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appshell.gyp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3282967" vertical-offset="1695" max-vertical-offset="7770">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appshell_paths.gypi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5175">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CEF-Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="728">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.gypi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.475275" vertical-offset="9810" max-vertical-offset="56925">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compatibility.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appshell_config.gypi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="728">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="715">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.033693" vertical-offset="2993" max-vertical-offset="3735">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

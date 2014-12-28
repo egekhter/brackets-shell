@@ -159,9 +159,11 @@ class AppShellExtensionHandler : public CefV8Handler {
           retval = CefV8Value::CreateString(ClientApp::AppGetDocumentsDirectory());
       } else if (name == "GetRemoteDebuggingPort") {
           retval = CefV8Value::CreateInt(REMOTE_DEBUGGING_PORT);
+      } else if (name == "GetMacUUID") {
+          retval = CefV8Value::CreateString(ClientApp::AppGetMacUUID());
       } else {
           // Pass all messages to the browser process. Look in appshell_extensions.cpp for implementation.
-          CefRefPtr<CefBrowser> browser = 
+          CefRefPtr<CefBrowser> browser =
                 CefV8Context::GetCurrentContext()->GetBrowser();
           if (!browser.get()) {
               // If we don't have a browser, we can't handle the command.

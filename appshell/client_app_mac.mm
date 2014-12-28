@@ -25,8 +25,10 @@
 #include "include/cef_base.h"
 #include "config.h"
 #include <Cocoa/Cocoa.h>
+#include <IOKit/IOKitLib.h>
 
 #include <string>
+
 
 extern CFTimeInterval g_appStartupTime;
 
@@ -94,4 +96,20 @@ CefString ClientApp::AppGetSupportDirectory() {
 CefString ClientApp::AppGetDocumentsDirectory() {
     NSString *documentsDirectory = [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0];
     return CefString([documentsDirectory UTF8String]);
+}
+
+CefString ClientApp::AppGetMacUUID() {
+    NSString* macUuid;
+    io_service_t platformExpert = IOServiceGetMatchingService(kIOMasterPortDefault,IOServiceMatching("IOPlatformExpertDevice"));
+    if (!platformExpert)
+        return CefString([@"Platform not found" UTF8String]);
+    
+    CFTypeRef serialNumberAsCFString = IORegistryEntryCreateCFProperty(platformExpert,CFSTR(kIOPlatformUUIDKey),kCFAllocatorDefault, 0);
+    IOObjectRelease(platformExpert);
+    if (!serialNumberAsCFString)
+        return CefString([@"Serial number not found" UTF8String]);
+    
+    macUuid = (__bridge NSString *)(serialNumberAsCFString);
+    
+    return CefString([macUuid UTF8String]);
 }

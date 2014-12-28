@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Brackets Windows installer" basedir="."  xmlns:antcontrib="antlib:net.sf.antcontrib"
+<project name="Reflectera Windows installer" basedir="."  xmlns:antcontrib="antlib:net.sf.antcontrib"
 default="build.mul">
 
   <!-- Key locations on disk -->
@@ -10,7 +10,7 @@ default="build.mul">
 
   <!-- Product & version labeling -->
   <!-- See also: product name definitions in Brackets_<locale>.wxl -->
-  <property name="product.shortname" value="Brackets"/>
+  <property name="product.shortname" value="Reflectera"/>
   <property name="product.release.number.major" value="1"/>
   <property name="product.release.number.minor" value="2"/>
   <property name="product.version.number" value="${product.release.number.major}.${product.release.number.minor}"/>

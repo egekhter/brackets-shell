@@ -93,6 +93,7 @@ class ClientApp : public CefApp,
   std::string GetExtensionJSSource();
   static CefString AppGetSupportDirectory();
   static CefString AppGetDocumentsDirectory();
+  static CefString AppGetMacUUID();
 
 private:
   // Creates all of the RenderDelegate objects. Implemented in
